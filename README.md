@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ## 🌟 주요 프로젝트
-- [🍳 냉털 한끼](https://react-2nd-team5-cqrk.vercel.app/)  
+- [🍳 냉털 한끼](https://bejewelled-cuchufli-22921c.netlify.app/)  
   React로 만든 레시피 검색 사이트(리액트 쿼리, 리덕스 활용)
 - [📰 뉴스를 진짜 스마트하게](https://github.com/SK-flyai/NateNews)  
   AI를 활용한 뉴스 요약 및 관련 뉴스 추천 앱.
