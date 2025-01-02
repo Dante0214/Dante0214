@@ -10,6 +10,8 @@
   React로 만든 레시피 검색 사이트(리액트 쿼리, 리덕스 활용)
 - [📰 뉴스를 진짜 스마트하게](https://github.com/SK-flyai/NateNews)  
   AI를 활용한 뉴스 요약 및 관련 뉴스 추천 앱.
+## 🖨 Portfolio
+https://js-portfolio-xi-umber.vercel.app/
 ## 📫 연락처
 - Email: rn_chic@naver.com
 
