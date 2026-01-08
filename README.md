@@ -80,7 +80,7 @@
 - [📰 뉴스를 진짜 스마트하게](https://github.com/SK-flyai/NateNews)  
   AI를 활용한 뉴스 요약 및 관련 뉴스 추천 앱.
 ## 🖨 Portfolio
-https://js-portfolio-xi-umber.vercel.app/
+https://pofol-2026.vercel.app/
 ## 📫 연락처
 - Email: rn_chic@naver.com
 
