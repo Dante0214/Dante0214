@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ## 🌟 주요 프로젝트
 
-- [AI기반 주식분석](https://ai-finance-coral.vercel.app/)<br>
+- [AI 미국 주식 분석기](https://ai-finance-coral.vercel.app/)<br>
   AI 기반 주식 분석 및 정보 제공 플랫폼입니다.
 사용자가 주식 종목을 검색하면 AI를 활용하여 심층적인 분석 정보를 제공하며, 실시간 랭킹 및 검색 기능을 지원합니다.
   <details>
