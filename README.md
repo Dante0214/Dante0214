@@ -74,7 +74,7 @@
 
   </details>  
 ## 
-- [🍳 냉털 한끼](https://bejewelled-cuchufli-22921c.netlify.app/)  
+- [🍳 냉털 한끼](https://react-2nd-team5.vercel.app/)  
   React로 만든 레시피 검색 사이트(리액트 쿼리, 리덕스 활용)
 ## 
 - [📰 뉴스를 진짜 스마트하게](https://github.com/SK-flyai/NateNews)  
